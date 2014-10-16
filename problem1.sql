@@ -1,5 +1,5 @@
 ﻿/*
- * Solution: .NET-transact-sql-database-project (assig3.doc)
+ * Solution: .NET-transact-sql-database (assig3.doc)
  * Project: canzalon_assig3
  * File/Module: problem1.sql
  * Author: Christopher Anzalone 
